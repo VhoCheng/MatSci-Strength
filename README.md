@@ -25,7 +25,30 @@ The experiments are based on the **Matbench steel** task.
 - **Feature space**: composition-derived numerical descriptors
 
 ---
+<table>
+  <tr>
+    <td align="center">
+      <img src="framework_pipeline.png" width="480"><br>
+      <b>Framework</b>
+    </td>
+    <td align="center">
+      <img src="luxury_dashboard_masterpiece.png" width="480"><br>
+      <b>Benchmark Dashboard</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="best_model_masterpiece.png" width="480"><br>
+      <b>Best Model Diagnostics</b>
+    </td>
+    <td align="center">
+      <img src="advanced_showcase_luxury.png" width="480"><br>
+      <b>Advanced Showcase</b>
+    </td>
+  </tr>
+</table>
 
+---
 ## Methods
 
 We construct an enhanced composition-based descriptor space and benchmark the following regression models:
